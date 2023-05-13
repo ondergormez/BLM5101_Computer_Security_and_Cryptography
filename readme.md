@@ -3,7 +3,8 @@
 ## Contents
 
 - [ ] [Lectures](01-Lectures/readme.md)
-- [ ] [Homeworks](02-Homework/readme.md)
+- [x] [Homeworks](02-Homework/readme.md)
+- [x] [Project](03-Project/readme.md)
 
 ## Useful Readings
 

@@ -1,1 +1,2 @@
-- [ ] [Homework 1](Homework-1/readme.md)
+- [x] [Homework 1](Homework-1/readme.md)
+- [x] [Homework 2](Homework-2/readme.md)
