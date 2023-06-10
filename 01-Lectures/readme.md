@@ -19,3 +19,4 @@ Regarding the weeks;
 - [ ] [12. Week - 19 May 2023 Friday](12_19_05_2023.md)
 - [ ] [13. Week - 26 May 2023 Friday](13_26_05_2023.md)
 - [ ] [14. Week - 2 June 2023 Friday](14_02_06_2023.md)
+- [ ] [15. Week - 9 June 2023 Friday](15_09_06_2023.md)
