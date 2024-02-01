@@ -22,7 +22,7 @@ https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&orig
 
 # DES Encryption/Decryption
 
-## DES Encyrtion Steps
+## DES Encryption Steps
 
 * Generate Key (8 byte): https://www.browserling.com/tools/random-hex
     * Sample Key: 51a01840dc796c3a
@@ -43,7 +43,7 @@ https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&orig
 
 # AES Encryption/Decryption
 
-## AES Encyrtion Steps
+## AES Encryption Steps
 * https://www.javainuse.com/aesgenerator
     * Sample Key: aesEncryptionKey
     * Sample Message: Hello AI
@@ -53,3 +53,18 @@ https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&orig
 * https://www.javainuse.com/aesgenerator
     * Sample Key: aesEncryptionKey
     * Encrypted Text: e5d8f0e051ab96f30b6953ac70da2f51
+
+
+# RSA Encryption/Decryption
+Public Key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKJ93HJWyPSi9+l18PxVRmeimig2YBR31GBbWUwO1PMJfhGDpeYJocZkCKMX96o1oElnpvadcDNNJKSxmZZB/CUCAwEAAQ==
+
+Private Key: MIIBUwIBADANBgkqhkiG9w0BAQEFAASCAT0wggE5AgEAAkEAon3cclbI9KL36XXw/FVGZ6KaKDZgFHfUYFtZTA7U8wl+EYOl5gmhxmQIoxf3qjWgSWem9p1wM00kpLGZlkH8JQIDAQABAkBq4uvt8pSCB+mYEtMQyW9koJtTNGGDVUfIko5s75y4uUrOX7fm5cIo1AgmU2BfWE53vrOZvRUf6XroOUI0RlLJAiEA2r+1UvMgwT0PLjEibogYn/YDOsSV1eCwmhqf34fV1qsCIQC+KaLdrPt4NX5SEGhXstZiV82tSdaVPthh6Uhthr24bwIgd9OkRDgirTgBZNBNiDbNJnLg+gRN/8cBdqk3An+qR9kCIARkndiVKHIMelCXBHISNZWsBZpdPFHSU9lfNEcjd7qNAiBCjYlOa1/EeyNqaveTDgkmXy9zPyLJ3HKY/KovLd3/4g==
+
+## RSA Encryption Steps
+* https://www.javainuse.com/rsagenerator
+* Sample Message: Hello AI
+* Encrypted Text: jSHZpSVTcrCgeCdJQGJnrO/Z38HY6XMbWQq1GkCSbXUUaaC85ltJ0WLzmwco/2CmESHbtv+2bKxfVr9SQ+ELlQ==
+    
+## RSA Decryption Steps
+* Encrypted Text: jSHZpSVTcrCgeCdJQGJnrO/Z38HY6XMbWQq1GkCSbXUUaaC85ltJ0WLzmwco/2CmESHbtv+2bKxfVr9SQ+ELlQ==
+* Decrypted Text: Hello AI
