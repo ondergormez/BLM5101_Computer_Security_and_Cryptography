@@ -13,9 +13,9 @@ https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&orig
 - [ ] Slaytların başlıklarını kontrol et: Basics of Cryptology
 - [ ] Başlıkların büyük küçük harf olması durumunu kontrol et.
 - [ ] Referansları eklemeyi unutma
-- [ ] Online DES linki ekle
-- [ ] Online AES linki ekle
-- [ ] Online RSA linki ekle
+- [x] Online DES linki ekle
+- [x] Online AES linki ekle
+- [x] Online RSA linki ekle
 - [ ] Kendi yaptığımız uygulamayı göster
 - [ ] Enes in ismini bir yerlerde geçir ve atıf yap.
 - [ ] OpenSSL gibi toolar ile nasıl key oluşturuluyor? Bu gösterilebilir.
