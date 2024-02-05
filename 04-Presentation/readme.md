@@ -1,7 +1,16 @@
 
 # Sunum
-TODO: [Sunum](presentation.pdf)
+[Sunum için tıklayınız](BasicsofCryptography.pdf)
 
+
+TODO: Aşağıdakinlere değin
+Cryptography
+
+Symmetric Ciphers
+Block Ciphers
+Stream Ciphers
+Assymetric Ciphers
+Protocols
 
 # References
 https://en.wikipedia.org/wiki/Symmetric-key_algorithm
