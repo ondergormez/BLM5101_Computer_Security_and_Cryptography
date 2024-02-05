@@ -5,7 +5,7 @@ Regarding the weeks;
 - [x] : It means reviewed.
 
 ## Weeks
-- [ ] [1. Week - 3 March 2023 Friday](01_03_03_2023.md)
+- [x] [1. Week - 3 March 2023 Friday](01_03_03_2023.md)
 - [ ] [2. Week - 10 March 2023 Friday](02_10_03_2023.md)
 - [ ] [3. Week - 17 March 2023 Friday](03_17_03_2023.md)
 - [ ] [4. Week - 24 March 2023 Friday](04_24_03_2023.md)
