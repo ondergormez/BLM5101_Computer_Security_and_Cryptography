@@ -3,17 +3,17 @@
 [Sunum için tıklayınız](BasicsofCryptographyandApplications.pdf)
 
 # References
-https://en.wikipedia.org/wiki/Cryptographic_hash_function#/media/File:Cryptographic_Hash_Function.svg
-https://en.wikipedia.org/wiki/Symmetric-key_algorithm
-https://en.wikipedia.org/wiki/Public-key_cryptography
-https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&origin=search&related_id=5110617
+https://en.wikipedia.org/wiki/Cryptographic_hash_function#/media/File:Cryptographic_Hash_Function.svg  
+https://en.wikipedia.org/wiki/Symmetric-key_algorithm  
+https://en.wikipedia.org/wiki/Public-key_cryptography  
+https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&origin=search&related_id=5110617  
 
 
-[Blockchain Demo: Public / Private Keys & Signing](https://andersbrownworth.com/blockchain/public-private-keys/)
-[Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
+[Blockchain Demo: Public / Private Keys & Signing](https://andersbrownworth.com/blockchain/public-private-keys/)  
+[Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)  
 
-https://upload.wikimedia.org/wikipedia/commons/c/c8/DiffieHellman.png
-https://www.qr-code-generator.com/free-generator/
+https://upload.wikimedia.org/wikipedia/commons/c/c8/DiffieHellman.png  
+https://www.qr-code-generator.com/free-generator/  
 
 # DES Encryption/Decryption
 
