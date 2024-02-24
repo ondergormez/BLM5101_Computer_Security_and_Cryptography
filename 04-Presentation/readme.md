@@ -1,6 +1,6 @@
 
 # Sunum
-[Sunum için tıklayınız](Basics of Cryptography and Applications.pdf)
+[Sunum için tıklayınız](BasicsofCryptographyandApplications.pdf)
 
 # References
 https://en.wikipedia.org/wiki/Cryptographic_hash_function#/media/File:Cryptographic_Hash_Function.svg
@@ -9,16 +9,11 @@ https://en.wikipedia.org/wiki/Public-key_cryptography
 https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&origin=search&related_id=5110617
 
 
-# TODOs
-- [ ] Slaytların başlıklarını kontrol et: Basics of Cryptology
-- [ ] Başlıkların büyük küçük harf olması durumunu kontrol et.
-- [ ] Referansları eklemeyi unutma
-- [x] Online DES linki ekle
-- [x] Online AES linki ekle
-- [x] Online RSA linki ekle
-- [ ] Kendi yaptığımız uygulamayı göster
-- [ ] Enes in ismini bir yerlerde geçir ve atıf yap.
-- [ ] OpenSSL gibi toolar ile nasıl key oluşturuluyor? Bu gösterilebilir.
+[Blockchain Demo: Public / Private Keys & Signing](https://andersbrownworth.com/blockchain/public-private-keys/)
+[Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
+
+https://upload.wikimedia.org/wikipedia/commons/c/c8/DiffieHellman.png
+https://www.qr-code-generator.com/free-generator/
 
 # DES Encryption/Decryption
 
