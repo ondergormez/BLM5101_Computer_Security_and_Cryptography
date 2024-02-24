@@ -3,6 +3,7 @@
 [Sunum için tıklayınız](Basics of Cryptography and Applications.pdf)
 
 # References
+https://en.wikipedia.org/wiki/Cryptographic_hash_function#/media/File:Cryptographic_Hash_Function.svg
 https://en.wikipedia.org/wiki/Symmetric-key_algorithm
 https://en.wikipedia.org/wiki/Public-key_cryptography
 https://www.flaticon.com/free-icon/demo_5110617?term=demo&page=1&position=5&origin=search&related_id=5110617
